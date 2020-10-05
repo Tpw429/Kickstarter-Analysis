@@ -1,5 +1,5 @@
-# Kickstarter-Analysis
-Performing Analysis on Kickstarter data to uncover trends.
+# Kickstarting with Excel
+Performing analysis on "Kickstarter" dataset to uncover trends.
 
 # Overview of Project
 The purpose of this Excel assignment was to determine and predict how Louise's play "Fever" compared in its fundraising goal in respect to different campaigns in relation to their launch dates and funding goals. To determine these results, creating pivot charts and tables were essential to understand the complete picture.
@@ -7,7 +7,8 @@ The purpose of this Excel assignment was to determine and predict how Louise's p
 # Analysis and Challenges
 The biggest challenge I had during this assignment was trying to determine what variables I wanted to use to create my pivot tables. At times, I wanted to add more data than was required. I also had a few issues with the UNIX Timestamps, but eventually figured out how to display the correct time and eventually convert it into hours. To understand how target amount and month of fundraising impacted how successful the campaign would be, I had to use pivot tables. Pivot tables are extremely powerful, because they allow me to pull and altar certain types of data and create efficient "Pivot Charts". One thing I didn't realize was that "Pivot Charts" allow you to put text in the x-axis, while other charts do not have this same function in excel.
 
-# A written Analysis of the Results
+# Analysis of Outcomes Based on Launch Date
+
 
 # Results
 ## What are two conclusions you can draw about the Outcomes based on Launch Date?
