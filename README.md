@@ -9,7 +9,8 @@ The biggest challenge I had during this assignment was trying to determine what 
 
 # A written Analysis of the Results
 
-## Theatre Outcomes based on Launch Date
+# Results
+## What are two conclusions you can draw about the Outcomes based on Launch Date?
 1) Time of year really does impact the success of a campaign. According to our data, the months of "May" and "June" have the highest chance of meeting their fundraising goal, while months like November, December, and January (the colder months in America and Europe) all have a much lower chance of meeting their goal.
 2) The summer months, like May, June, and July all seem to have higher chances for success rates on meeting their funraising goal. One thing I do notice in the dataset, is that the number of data points during these months is much higher too (more events go on during these months). I wonder if the lack of data outside of the summer months can skew the data slightly.
 
