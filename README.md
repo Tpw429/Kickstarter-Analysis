@@ -13,10 +13,13 @@ The biggest challenge I had during this assignment was trying to determine what 
 ### Analysis of Outcomes Based on Launch Date
 Given our data set, I created a pivot table to inspect when various fundraising campaigns kicked off. When I graphed the results and found the percentage of success for the various months, the results seemed fairly clearly. Based off my findings, the warmer months such as "May", "June", and "July" statistically had a much higher chance to reach their goal than in the colder months like "November", "December" and "January". This leads me to believe that during the summer, people tend to give more. Perhaps during the winter time, people are strapped with little cash because of christmas gifts they have to purchase.
 
+![Outcomes Based on Date](resources/Theater_Outcomes_vs_Launch.png)
+
+
 ### Analysis of Outcomes Based on Goals
 Using a line chart, I could see that in general, the higher the goal was set, the more likely the campaign was to fail. However, there was an anomally in the data which segmented this trend between a target of around $30,000 to $40,000 where somehow people managed to hit their goal more often, than the data immediately surrounding them. Those with a fundraising goal of less than $5,000 hit their goal around 70% of the time or more. However, those who set a goal to fundraise for $45,000 or more had over an 80% chance to not hit their goal. In general, the higher the fundraising target was set the more likely the campaign would fail to reach their number.
 
-![Outcomes Based on Date](resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Date](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Navigating the pivot tables seemed to be a tough interacction for me at first. I was constantly second guessing which variables I wanted to put in or exclude. In addition, several of the formulas, especially the outcomes based on goals with the restrictions added took me a while to fully account for.
